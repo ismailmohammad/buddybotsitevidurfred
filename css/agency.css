@@ -10,7 +10,7 @@
   overflow: hidden;
   border-radius: 50%;
   margin-left: auto;
-    margin-right: auto 
+    margin-right: auto
 }
 
 
@@ -259,6 +259,7 @@ header {
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 300px;
+  color:black;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
